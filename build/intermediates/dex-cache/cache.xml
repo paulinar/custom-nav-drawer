@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pramos/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/pramos/Desktop/CUSTOM-NAV-DRAWER/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-284e9b1e52d4c976e13b70682bd950a5ff9a6f5c.jar" />
+    </item>
+    <item
+        jar="/Users/pramos/Desktop/CUSTOM-NAV-DRAWER/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/pramos/Desktop/CUSTOM-NAV-DRAWER/app/build/intermediates/pre-dexed/debug/classes-4b8563b1669fa50d36783832d5c73bc176514acf.jar" />
+    </item>
+    <item
+        jar="/Users/pramos/Desktop/CUSTOM-NAV-DRAWER/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/pramos/Desktop/CUSTOM-NAV-DRAWER/app/build/intermediates/pre-dexed/debug/classes-65aed45d86fb1fde510cc2e9adb7c0a2fbe3761e.jar" />
+    </item>
+    <item
+        jar="/Users/pramos/Desktop/CUSTOM-NAV-DRAWER/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/pramos/Desktop/CUSTOM-NAV-DRAWER/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ba9134a37a2e2a35ca5e50665395f01a9383e4f7.jar" />
+    </item>
+
+</items>
