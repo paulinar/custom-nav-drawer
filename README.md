@@ -1,2 +1,4 @@
-# custom-nav-drawer
-Custom (fragment-based) navigation drawer for Android.
+# Custom Nav Drawer
+Custom (fragment-based) navigation drawer for Android using Material Design.
+
+![mock](mock.png)
